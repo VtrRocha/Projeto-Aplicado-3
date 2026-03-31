@@ -19,4 +19,4 @@ Universidade Presbiteriana Mackenzie - São Paulo, 2026
 * Desenvolvimento e avaliação de um modelo de sistema de recomendação.
 
 ## Base de Dados
-A base de dados utilizada é o **Amazon Product Reviews Dataset**, organizado pelo pesquisador Julian McAuley (University of California San Diego).
+A base de dados utilizada é o **Amazon Product Reviews Dataset**
