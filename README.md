@@ -7,7 +7,7 @@ Desenvolvimento de um sistema de recomendação para produtos fitness utilizando
 * KARLA MARIA RAMOS DA SILVA (10730503)
 * OSCAR LUZ (10435099)
 * RAFAEL HESSEL SICHETTI (10375395)
-* VITOR ASSUNÇÃO ROCHA
+* VITOR ASSUNÇÃO ROCHA (10440984)
 
 ## Instituição
 Universidade Presbiteriana Mackenzie - São Paulo, 2026
