@@ -1,1 +1,5 @@
 Sports_and_Outdoors.jsonl
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
