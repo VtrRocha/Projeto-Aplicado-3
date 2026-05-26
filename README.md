@@ -9,6 +9,9 @@ Desenvolvimento de um sistema de recomendação para produtos fitness utilizando
 * RAFAEL HESSEL SICHETTI (10375395)
 * VITOR ASSUNÇÃO ROCHA (10440984)
 
+Link da apresentação do projeto:
+https://www.youtube.com/watch?v=6XbiS_GT42w
+
 ## Instituição
 Universidade Presbiteriana Mackenzie - São Paulo, 2026
 
