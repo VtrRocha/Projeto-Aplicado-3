@@ -11,6 +11,7 @@ Desenvolvimento de um sistema de recomendação para produtos fitness utilizando
 
 Link da apresentação do projeto:
 https://www.youtube.com/watch?v=6XbiS_GT42w
+
 Link do projeto no Coolab:
 https://colab.research.google.com/drive/1Dz9ScQg0YiXr5WZ_rWz-FMPWVwBAjis9?usp=sharing
 
